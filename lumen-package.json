@@ -1,0 +1,42 @@
+{
+  "name": "lumen",
+  "version": "1.0.0",
+  "description": "LUMEN — Live Unified Machine for Executing Nodes. 10 AI automation nodes powered by Claude Sonnet with dual-phase security validation.",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src/"
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-react": "^7.37.0",
+    "vite": "^5.4.0"
+  },
+  "keywords": [
+    "lumen",
+    "ai",
+    "automation",
+    "nodes",
+    "agents",
+    "claude",
+    "anthropic",
+    "react",
+    "llm",
+    "security"
+  ],
+  "author": "rjena3214",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjena3214/lumen.git"
+  },
+  "homepage": "https://rjena3214.github.io/lumen"
+}
